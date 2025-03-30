@@ -14,3 +14,8 @@ var myVar = "Hello, World!";
 ``` 
 git init
 ```
+
+- [x] Fruits
+- [ ] Vegetables
+- [x] Sauces
+- [x] Chicken
